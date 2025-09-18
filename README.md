@@ -1,4 +1,4 @@
-# 👋 Halo, I'm Abu Khaisa
+## 👋 Halo, I'm Abu Khaisa
 
 I am a beginner programmer, I started coding since junior high school. I really like anime and it makes me happy. I also enjoy learning new things, even if they are difficult, I will continue to learn them :)
 
