@@ -15,16 +15,3 @@ I am a beginner programmer, I started coding since junior high school. I really 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Termux](https://img.shields.io/badge/-Termux-000000?logo=termux&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td style="border: 2px solid #38B2AC; border-radius:10px; padding:10px;" align="center" width="420">
-      <img src="https://github-readme-stats-nextarz.vercel.app/api?username=nextarz&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs" />
-    </td>
-    <td style="border: 2px solid #38B2AC; border-radius:10px; padding:10px;" align="center" width="420">
-      <img src="https://github-readme-stats-nextarz.vercel.app/api/top-langs/?username=nextarz&layout=compact&theme=tokyonight&card_width=400" alt="Stats" />
-    </td>
-  </tr>
-</table>
